@@ -46,6 +46,7 @@ You can install Heart Face the following method:
 	```
 ## TODO List
 - Implament a Computer Vision (CV) based system for cardiac landmark detection
+	- Based on the Jugular Notch and Xiphoid Process 
 - Heart rate algorithm
 
 ## Contribution
