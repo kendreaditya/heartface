@@ -3,8 +3,7 @@
 <h4 align="center">A heart sound abnormality detection system.</h4>
 
 <p align="center">
-	<img src="assets/phoneScreenRecording_1.gif" width=160>
-	<img src="assets/phoneScreenshots_1.jpg" width=160>
+	<img src="assets/phoneScreenRecording_1.gif" width=300>
 </p>
 
 ## Description
