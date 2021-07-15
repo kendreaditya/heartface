@@ -9,6 +9,15 @@
 ## Description
 Heart Face is an app that detects cardiac abnormalities like gallops and murmurs from heart sounds just from a smartphone microphone. The app uses the microphone to record the sounds created by the mechanical movements of the heart. From the recording, the app predicts the probability of an abnormality and notifies the user of potential gallops or murmurs using AI.
 
+## Structure
+
+| Codebase              |      Description          |
+| :-------------------- | :-----------------------: |
+| [app]()        	|	Flutter App	    |
+| [fastAPI](backend)  	|	fastAPI Backend     |
+| [node](backend-node)  |	Node.js Backend     |
+
+
 ## Dependencies
 App (frontend)
 ```
